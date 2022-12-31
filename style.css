@@ -9,7 +9,7 @@ body{
     margin: 0;
     background-image: linear-gradient(to top, #123d36 , #938142);
     height: 100vh;
-    min-height: 650px;
+    min-height: 750px;
 }
 
 a{
